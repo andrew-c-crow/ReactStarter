@@ -7,3 +7,4 @@ const container = document.getElementById('app')
 const root = ReactDOM.createRoot(container)
 
 root.render(<Main />)
+//The above is the origin for my react app.
